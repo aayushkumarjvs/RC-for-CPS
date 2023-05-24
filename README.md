@@ -1,5 +1,5 @@
 # RC-for-CPS
-In this paper, I provide a novel method for integrating reservoir computing, a type of recurrent neural network, with Cyber Physical Systems (CPS). I look at the difficulty presented by the rising complexity of CPS, which makes it difficult for conventional control techniques to meet necessary flexibility and performance standards. I use reservoir computing to provide CPS with dynamic and reliable control techniques as a remedy.
+In this project, I provide a novel method for integrating reservoir computing, a type of recurrent neural network, with Cyber Physical Systems (CPS). I look at the difficulty presented by the rising complexity of CPS, which makes it difficult for conventional control techniques to meet necessary flexibility and performance standards. I use reservoir computing to provide CPS with dynamic and reliable control techniques as a remedy.
 
 I use the well-known reservoir computing model Echo State Networks (ESNs) to forecast the time-series data included in CPS. A control mechanism that can adjust in real-time to changes in system behavior is built on this prediction capability.
 
